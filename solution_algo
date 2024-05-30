@@ -1,0 +1,52 @@
+/*-----------------1----------------------
+- Generer un tableau entier
+    - ordonner
+    - Pas tous consecutif
+
+    - Problematique :
+        - Creer un tableau d'entier
+            - int tab[10];
+        - Remplir le tableau avec des entiers aleatoires
+            - Pas de doublon
+            - Ordonner le tableau
+            - Maniere de proceder :
+                - choisi nombre aleatoire
+                    Random aleatoire = new Random();
+                    aleatoire.Next(MIN, MAX);
+                - plus grand que le precedent
+                    - Besoin d'une borne minimal
+                        - nombre generer precedement + 1
+                            - Garder en memoire le nombre precedement generer
+                                - Regarder index - 1 (faire attention a l'index 0)
+                                - Garder en memoire le nombre precedement generer dans un variable
+
+                - pas trop d'ecart
+                    - Besoin d'une borne maximal
+                        - Borne minimal + 20
+
+------------------2-----------------------
+
+- Fonction de recherche
+    - Parametre :
+        - un tableau d'entier
+        - un entier a trouver dans le tableau
+    - Renvoie :
+        - l'index de l'entier dans le tableau
+        - -1 si l'entier n'est pas dans le tableau
+
+    - Maniere de proceder:
+        - Regarder au milieu du tableau
+            - Calculer l'index du milieu
+                - milieu = (borne minimal + borne maximal) / 2
+        - Reduire la borne minimal et maximal
+            - si l'element est plus grand que le milieu
+                - Borne minimal = milieu
+
+            - si l'element est plus petit que le milieu
+                - Borne maximal = milieu
+
+        - On ne le trouve pas si les deux bornes sont egales et que l'element n'est pas sur cette borne
+        if (borne minimal == borne maximal && tab[borne minimal] != element)
+            return -1;
+
+23 34 56 78 89 90 105 112 123 132 */
