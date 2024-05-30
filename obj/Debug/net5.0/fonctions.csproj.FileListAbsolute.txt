@@ -1,0 +1,16 @@
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\bin\Debug\net5.0\fonctions.exe
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\bin\Debug\net5.0\fonctions.deps.json
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\bin\Debug\net5.0\fonctions.runtimeconfig.json
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\bin\Debug\net5.0\fonctions.runtimeconfig.dev.json
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\bin\Debug\net5.0\fonctions.dll
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\bin\Debug\net5.0\ref\fonctions.dll
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\bin\Debug\net5.0\fonctions.pdb
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\fonctions.csprojAssemblyReference.cache
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\fonctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\fonctions.AssemblyInfoInputs.cache
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\fonctions.AssemblyInfo.cs
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\fonctions.csproj.CoreCompileInputs.cache
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\fonctions.dll
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\ref\fonctions.dll
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\fonctions.pdb
+D:\Cours_Dév.NET_ibCegos\CODE\Azure\fonctions\obj\Debug\net5.0\fonctions.genruntimeconfig.cache
